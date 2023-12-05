@@ -26,7 +26,7 @@ git clone https://github.com/naix0x/raid-telegram.git ride && cd ride
 ```python
 nano config.py
 ```
-- Create a file (making more is fine, but use `commas` as delimiters between file paths that must be filled in later) with any name, but it must have the extension `.txt`, and contain the text you want for the raid (the one below is just an example)
+- Create a file (making more is fine) with any name, but it must have the extension `.txt`, and contain the text you want for the raid (the one below is just an example)
 
 ```python
 nano message.txt
