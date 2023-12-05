@@ -42,8 +42,8 @@ python3 main.py
 
 If you want more `(multi messages)` to be sent, screenshots like the one below, `use a comma (,)`
 
-#### Result in telegram :
+#### Result in group telegram :
 
 <p align="center">
-    <img width="400" src="screenshot/console/Telegram.png" alt="Console">
+    <img width="200" src="screenshot/console/Telegram.png" alt="Console">
 </p>
