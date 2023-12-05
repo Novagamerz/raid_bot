@@ -6,3 +6,15 @@
 
 
 Raid group with use a bot telegram, u can set things like delay time, time duration, text path (.txt) which contains the raid text you want.
+
+#### Requirements
+
+```python
+pip install requirements.txt
+```
+
+#### Execution
+
+```python
+python3 main.py
+```
