@@ -49,5 +49,5 @@ If you want more `(multi messages)` to be sent, screenshots like the one below, 
 
 ## 📝 License
 
-This project is licensed under the [AGPL-3.0 License](https://github.com/naix0x/raid-telegram/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/naix0x/raid-telegram/blob/main/LICENSE).
 
