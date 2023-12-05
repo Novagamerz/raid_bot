@@ -21,6 +21,8 @@ git clone https://github.com/naix0x/raid-telegram.git ride && cd ride
 
 #### Execution
 
+- Set youre token bot telegram in `config.py`
+
 ```python
 python3 main.py
 ```
