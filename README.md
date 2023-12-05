@@ -5,7 +5,7 @@
 </p>
 
 
-Raid group with use a bot telegram, u can set things like delay time, time duration, text path (.txt) which contains the raid text you want.
+Raid group with use a bot telegram, u can set things like `delay time`, `time duration`, text path `.txt` which contains the raid text you want.
 
 #### Requirements
 
@@ -40,7 +40,7 @@ python3 main.py
 
 #### Information
 
-If you want more messages to be sent, screenshots like the one below, use a comma (,)
+If you want more messages to be sent, screenshots like the one below, `use a comma (,)`
 
 #### Result in telegram :
 
