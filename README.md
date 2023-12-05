@@ -13,6 +13,9 @@ Raid group with use a bot telegram, u can set things like delay time, time durat
 pip install requirements.txt
 ```
 
+```python
+git clone https://github.com/naix0x/raid-telegram.git ride && cd ride
+
 #### Execution
 
 ```python
