@@ -1,4 +1,4 @@
-<h3 align="center">Raid Telegram</h1>
+<h2 align="center">Raid Telegram</h1>
 
 <p align="center">
     <img width="400" src="screenshot/console/Console.png" alt="Console">
