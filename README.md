@@ -24,6 +24,17 @@ git clone https://github.com/naix0x/raid-telegram.git ride && cd ride
 - Set youre token bot telegram in `config.py`
 
 ```python
+nano config.py
+```
+- Create a file with any name, but it must have the extension .txt, and contain the text you want for the raid (the one below is just an example)
+
+```python
+nano message.txt
+```
+
+- Ready Lauch
+
+```python
 python3 main.py
 ```
 
