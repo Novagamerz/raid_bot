@@ -1,7 +1,7 @@
 <h1 align="center">Raid Telegram</h1>
 
 <p align="center">
-    <img width="400" src="screenshot/console/console.png" alt="Layer7">
+    <img width="400" src="screenshot/console/Console.png" alt="Console">
 </p>
 
 
