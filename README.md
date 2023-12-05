@@ -40,7 +40,7 @@ python3 main.py
 
 #### Information
 
-If you want more messages to be sent, screenshots like the one below, `use a comma (,)`
+If you want more `(multi messages)` to be sent, screenshots like the one below, `use a comma (,)`
 
 #### Result in telegram :
 
