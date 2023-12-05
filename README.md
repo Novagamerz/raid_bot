@@ -38,6 +38,10 @@ nano message.txt
 python3 main.py
 ```
 
+#### Information
+
+If you want more messages to be sent, screenshots like the one below, use a comma (,)
+
 #### Result in telegram :
 
 <p align="center">
