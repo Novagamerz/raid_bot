@@ -5,4 +5,4 @@
 </p>
 
 
-Raid group with use a bot telegram, u can set up text whatever what you want.
+Raid group with use a bot telegram, u can set things like delay time, time duration, text path (.txt) which contains the raid text you want.
