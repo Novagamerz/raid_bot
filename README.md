@@ -24,3 +24,9 @@ git clone https://github.com/naix0x/raid-telegram.git ride && cd ride
 ```python
 python3 main.py
 ```
+
+#### Result in telegram :
+
+<p align="center">
+    <img width="400" src="screenshot/console/Telegram.png" alt="Console">
+</p>
