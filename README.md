@@ -44,6 +44,10 @@ If you want more `(multi messages)` to be sent, screenshots like the one below, 
 
 #### Result in group telegram :
 
-<p align="center">
-    <img width="200" src="screenshot/console/Telegram.png" alt="Console">
-</p>
+<center><img src="screenshot/console/Telegram.png" width=160></center>
+
+
+## 📝 License
+
+This project is licensed under the [AGPL-3.0 License](https://github.com/naix0x/raid-telegram/blob/main/LICENSE).
+
